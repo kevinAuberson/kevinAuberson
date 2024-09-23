@@ -8,4 +8,4 @@ This page provides an overview of the courses I took and the projects I complete
 
 ## Conclusion
 
-Thank you for taking the time to visit my GitHub and explore the projects I completed during my bachelor’s degree. If you have any questions or would like to learn more about a specific project, please feel free to contact me at [your email or other contact method]. I appreciate your interest and hope you find these projects as interesting to explore as I did to create them.
+Thank you for taking the time to visit my GitHub and explore the projects I completed during my bachelor’s degree. If you have any questions or would like to learn more about a specific project, please feel free to contact me at kevin.auberson@heig-vd.ch. I appreciate your interest and hope you find these projects as interesting to explore as I did to create them.
