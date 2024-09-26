@@ -19,18 +19,18 @@ This page provides an overview of the courses I took and the projects I complete
 - [Programmation orientée objet (POO)](https://github.com/kevinAuberson/POO)
 - [Systèmes d'exploitation (SYE)](https://github.com/kevinAuberson/SYE)
 ### Semester 4
-- [Administration système (ADS)]()
+- [Administration système (ADS)]
 - [Cloud Computing (CLD)]()
-- [DevOps (DOP)]()
+- [DevOps (DOP)]
 - [Infrastructures de stockage et de traitement de données (IST)]()
 - [Processus de développement en ingénierie logicielle (PDL)]()
 - [Sécurité des réseaux (SRX)]()
 - [Switching and routing (SWR)]()
 ### Semester 5
-- [Applications multi-tiers (AMT)]()
-- [Gestion des réseaux et sécurité opérationnelle (GRS)]()
-- [Software-Defined Networking (SDN)]()
-- [Télétrafic (TTR)]()
+- [Applications multi-tiers (AMT)]
+- [Gestion des réseaux et sécurité opérationnelle (GRS)]
+- [Software-Defined Networking (SDN)]
+- [Télétrafic (TTR)]
 ### Semester 6
 ## Conclusion
 
