@@ -11,12 +11,27 @@ This page provides an overview of the courses I took and the projects I complete
 - [Systèmes logiques (SYL)](https://github.com/kevinAuberson/SYL)
 ### Semester 2
 - [Architectures des ordinateurs (ARO)](https://github.com/kevinAuberson/ARO)
+- [Algorithmes et structures de données (ASD)](https://github.com/kevinAuberson/ASD)
 ### Semester 3
-
+- [Bases de données relationnelles (BDR)](https://github.com/kevinAuberson/BDR)
+- [Développement d'application internet (DAI)](https://github.com/kevinAuberson/DAI)
+- [Programmation concurrente (PCO)](https://github.com/kevinAuberson/PCO)
+- [Programmation orientée objet (POO)](https://github.com/kevinAuberson/POO)
+- [Systèmes d'exploitation (SYE)](https://github.com/kevinAuberson/SYE)
 ### Semester 4
-
+- [Administration système (ADS)]()
+- [Cloud Computing (CLD)]()
+- [DevOps (DOP)]()
+- [Infrastructures de stockage et de traitement de données (IST)]()
+- [Processus de développement en ingénierie logicielle (PDL)]()
+- [Sécurité des réseaux (SRX)]()
+- [Switching and routing (SWR)]()
 ### Semester 5
-
+- [Applications multi-tiers (AMT)]()
+- [Gestion des réseaux et sécurité opérationnelle (GRS)]()
+- [Software-Defined Networking (SDN)]()
+- [Télétrafic (TTR)]()
+### Semester 6
 ## Conclusion
 
 Thank you for taking the time to visit my GitHub and explore the projects I completed during my bachelor’s degree. If you have any questions or would like to learn more about a specific project, please feel free to contact me at kevin.auberson@heig-vd.ch. I appreciate your interest and hope you find these projects as interesting to explore as I did to create them.
