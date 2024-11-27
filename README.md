@@ -20,12 +20,12 @@ This page provides an overview of the courses I took and the projects I complete
 - [Systèmes d'exploitation (SYE)](https://github.com/kevinAuberson/SYE)
 ### Semester 4
 - [Administration système (ADS)]
-- [Cloud Computing (CLD)]()
+- [Cloud Computing (CLD)](https://github.com/kevinAuberson/CLD)
 - [DevOps (DOP)]
-- [Infrastructures de stockage et de traitement de données (IST)]()
-- [Processus de développement en ingénierie logicielle (PDL)]()
-- [Sécurité des réseaux (SRX)]()
-- [Switching and routing (SWR)]()
+- [Infrastructures de stockage et de traitement de données (IST)](https://github.com/kevinAuberson/IST)
+- [Processus de développement en ingénierie logicielle (PDL)](https://github.com/kevinAuberson/PDL)
+- [Sécurité des réseaux (SRX)](https://github.com/kevinAuberson/SRX)
+- [Switching and routing (SWR)](https://github.com/kevinAuberson/SWR)
 ### Semester 5
 - [Applications multi-tiers (AMT)]
 - [Gestion des réseaux et sécurité opérationnelle (GRS)]
