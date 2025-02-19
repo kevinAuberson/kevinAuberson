@@ -27,10 +27,10 @@ This page provides an overview of the courses I took and the projects I complete
 - [Sécurité des réseaux (SRX)](https://github.com/kevinAuberson/SRX)
 - [Switching and routing (SWR)](https://github.com/kevinAuberson/SWR)
 ### Semester 5
-- [Applications multi-tiers (AMT)]
-- [Gestion des réseaux et sécurité opérationnelle (GRS)]
-- [Software-Defined Networking (SDN)]
-- [Télétrafic (TTR)]
+- [Applications multi-tiers (AMT)](https://github.com/kevinAuberson/AMT)
+- [Gestion des réseaux et sécurité opérationnelle (GRS)](https://github.com/kevinAuberson/GRS)
+- [Software-Defined Networking (SDN)](https://github.com/kevinAuberson/SDN)
+- [Télétrafic (TTR)](https://github.com/kevinAuberson/TTR)
 ### Semester 6
 ## Conclusion
 
